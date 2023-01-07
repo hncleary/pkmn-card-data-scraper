@@ -1,5 +1,5 @@
 # pkmn-card-data-scraper
- Download Pokemon Card Data as CSV file from pokmncards.com
+ Download Pokemon Card Data as CSV file from pkmncards.com
 
 # Instructions
 - Go to pkmncards.com, filter by set, view as list
